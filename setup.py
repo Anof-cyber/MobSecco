@@ -29,7 +29,7 @@ setup(
         'Operating System :: OS Independent',
         'Topic :: Security',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.6',
     ],
     python_requires='>=3.6',
     entry_points={
