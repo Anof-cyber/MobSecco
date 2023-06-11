@@ -1,4 +1,4 @@
-name: build
+name: python-app
 
 on: [push]
 
