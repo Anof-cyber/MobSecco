@@ -42,4 +42,4 @@ mobsecco -f ~/path/to/file.apk
 
 ## Reference
 
-[Heading link](https://github.com/pandao/editor.md "Heading link")
+[Recreating Cordova Mobile Apps to Bypass Security Implementations](https://medium.com/@Ano_F_/recreating-cordova-mobile-apps-to-bypass-security-implementations-8845ff7bdc58 "Recreating Cordova Mobile Apps to Bypass Security Implementations")
