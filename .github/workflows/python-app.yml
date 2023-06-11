@@ -1,4 +1,4 @@
-name: Pylint
+name: python-app
 
 on: [push]
 
