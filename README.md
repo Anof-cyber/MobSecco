@@ -5,6 +5,7 @@
 
 This Python script enables the cloning of Cordova-based mobile applications to create a new debug APK using the source code, purely for recreational purposes and to bypass security checks. Additionally, the script verifies the presence of outdated versions of Cordova libraries.
 
+[![python-app](https://github.com/Anof-cyber/MobSecco/actions/workflows/python-app.yml/badge.svg)](https://github.com/Anof-cyber/MobSecco/actions/workflows/python-app.yml)
 ## Reference
 
 [Recreating Cordova Mobile Apps to Bypass Security Implementations](https://medium.com/@Ano_F_/recreating-cordova-mobile-apps-to-bypass-security-implementations-8845ff7bdc58 "Recreating Cordova Mobile Apps to Bypass Security Implementations")
