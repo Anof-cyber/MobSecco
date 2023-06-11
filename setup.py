@@ -28,7 +28,7 @@ setup(
         'Intended Audience :: Information Technology',
         'Operating System :: OS Independent',
         'Topic :: Security',
-        'License :: MIT license',
+        'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.4',
     ],
     python_requires='>=3.6',
